@@ -1,0 +1,12 @@
+Gmeet Controller: 	https://github.com/RitabrataDas343/GMeet_Controller
+
+Article for above: 	https://dev.to/nitdgplug/control-google-meet-with-expressions-gestures-21oo
+
+Head Tilt: 			https://medium.com/@warronbebster/teachable-machine-tutorial-head-tilt-f4f6116f491
+
+
+
+Future:
+
+Automating: https://www.geeksforgeeks.org/automating-google-meet-using-selenium-in-python/
+Voice : https://github.com/Picovoice/web-voice-processor
